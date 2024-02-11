@@ -1,0 +1,5 @@
+[python-pkgconfig]
+source = 'github'
+github = 'matze/pkgconfig'
+use_max_tag = true
+prefix = 'v'
